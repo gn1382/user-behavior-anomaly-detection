@@ -69,25 +69,46 @@ Different visualizations, including confusion matrices and ROC curves, are also 
 
 The project includes several visualizations to better understand the data and model results.
 
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
+### Feature Importance Analysis
 
 ### Model Performance Comparison
 
-![Model Comparison](images/model_comparison.png)
+### Model Comparison Heatmap
 
-### Confusion Matrix
+### Isolation Forest
+- Confusion Matrix
+- t-SNE Visualization
 
-![Confusion Matrix](images/confusion_matrix.png)
+### One-Class SVM
+- Confusion Matrix
+- t-SNE Visualization
 
-### ROC Curve
+### Local Outlier Factor (LOF)
+- Confusion Matrix
+- t-SNE Visualization
 
-![ROC Curve](images/roc_curve.png)
+### K-Nearest Neighbors (KNN)
+- Confusion Matrix
+- t-SNE Visualization
 
-### t-SNE Visualization
+### K-Means
+- Confusion Matrix
+- t-SNE Visualization
 
-![t-SNE](images/tsne_visualization.png)
+### Autoencoder
+- Confusion Matrix
+- t-SNE Visualization
+
+### ROC Curve Comparison
+
+### Anomaly Count Comparison
+
+### Ensemble Model (KNN + Autoencoder)
+- Confusion Matrix
+- ROC Curve
+- Performance Heatmap
+- t-SNE Visualization
+- Anomaly Count Comparison
 
 ## Technologies and Libraries
 
